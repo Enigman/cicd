@@ -89,3 +89,4 @@ flask_profiler.sql
 *.gz
 
 *.log
+.pytest_cache
